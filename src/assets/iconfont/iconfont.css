@@ -1,0 +1,103 @@
+@font-face {
+  font-family: "icons-lines"; /* Project id 3545121 */
+  src: url('iconfont.woff2?t=1667813196024') format('woff2'),
+       url('iconfont.woff?t=1667813196024') format('woff'),
+       url('iconfont.ttf?t=1667813196024') format('truetype');
+}
+
+.icons-lines {
+  font-family: "icons-lines" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-classify:before {
+  content: "\e601";
+}
+
+.icon-dingdan:before {
+  content: "\e603";
+}
+
+.icon-mine:before {
+  content: "\e607";
+}
+
+.icon-in:before {
+  content: "\e608";
+}
+
+.icon-collect:before {
+  content: "\e609";
+}
+
+.icon-change:before {
+  content: "\e60a";
+}
+
+.icon-wallet:before {
+  content: "\e60b";
+}
+
+.icon-back:before {
+  content: "\e60c";
+}
+
+.icon-set:before {
+  content: "\e60d";
+}
+
+.icon-msg:before {
+  content: "\e60e";
+}
+
+.icon-search:before {
+  content: "\e60f";
+}
+
+.icon-attent:before {
+  content: "\e610";
+}
+
+.icon-transmit:before {
+  content: "\e611";
+}
+
+.icon-more:before {
+  content: "\e612";
+}
+
+.icon-a-Frame4:before {
+  content: "\e613";
+}
+
+.icon-a-Frame20:before {
+  content: "\e614";
+}
+
+.icon-home:before {
+  content: "\e615";
+}
+
+.icon-eye:before {
+  content: "\e616";
+}
+
+.icon-shopping:before {
+  content: "\e617";
+}
+
+.icon-a-Frame5:before {
+  content: "\e618";
+}
+
+.icon-local:before {
+  content: "\e619";
+}
+
+.icon-money:before {
+  content: "\e61a";
+}
+
